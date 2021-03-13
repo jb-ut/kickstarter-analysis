@@ -48,14 +48,14 @@ Looking at the Outcomes Based on Launch date we can reach two conclusions:
 1.	Fundraisers in the theater parent category that launched in summers months (May – Aug) accounted for nearly half of all successful campaigns.
 2.	Failed campaigns were essentially flat during the entire year.
 
-!
-
 - What can you conclude about the Outcomes based on Goals?
 
 Looking at the Outcomes Based on Goals data we can reach the following conclusions:
-1.	Goals with budgets of less than 5000 have a success rate of above 70%
-2.	Goals above 5000 and less than 25000 will have a success rate in the range 45% -55%
-3.	Going above 25000 will have high likelihood of failure likely above 70%
+
+-Goals with budgets of less than 5000 have a success rate of above 70%
+-Goals above 5000 and less than 25000 will have a success rate in the range 45% -55%
+-Going above 25000 will have high likelihood of failure likely above 70%
+
 I recommend launching future campaigns in the summer months and with a goal under 25000.
 
 - What are some limitations of this dataset?
@@ -63,6 +63,6 @@ The data set has a few limitations. As I mentioned, there were some outliers for
 A data set that included the number of prior campaigns run by an individual would be interesting to see and it would be interesting the know the average goal of prior campaigns. My thought is those outliers could potentially be organized by individuals with prior experience of producing plays and maybe that experience factored into them reaching goals in this tier. 
 
 - What are some other possible tables and/or graphs that we could create?
-I am including another chart that helped me create this analysis.
-Additionally, another chart that would be interesting to see would be the average donation of size of campaigns based on their goal target.
+I am including another chart that helped me create this analysis. Additionally, another chart that would be interesting to see would be the average donation of size of campaigns based on their goal target.
+
 Another chart could look at the average number of days a success campaign ran by goal target. Louise missed her target by only 14%, but concluded her campaign in under an month. It would be interesting to see how long successful campaigns normally run. Perhaps then I could advise on extending her campaign length.
