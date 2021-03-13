@@ -38,7 +38,7 @@ The analysis asked for the creation of line chart for observing the “Outcomes 
 
 I created a new chart and formatted the data to show green for successful campaigns and red for failed campaigns. This helped me more easily read and interpret the chart and I am including it for reference. 
 
-![image](C:\Users\johns\OneDrive\Documents\UT - Analytics Bootcamp\Module 01\Challenge\Resources\Outcomes_vs_Goals-supplemental-chart.png)
+![image](https://github.com/jb-ut/kickstarter-analysis/blob/main/Outcomes_vs_Goals-supplemental-chart.png)
 
 ## Results
 
