@@ -32,10 +32,13 @@ It is important to consider the sample size from the data. While there was some 
 ![image]("C:\Users\johns\OneDrive\Documents\UT - Analytics Bootcamp\Module 01\Challenge\Resources\Outcomes_vs_Goals.png")
 
 ### Challenges and Difficulties Encountered 
-During the analysis there were some challenges encountered. The analysis asked for the creation of line chart for observing the “Outcomes Based on Goals” trends. I had difficulty reading the chart and felt that a clustered column might be a better fit to analyze the data.
+During the analysis there were some challenges encountered. 
+
+The analysis asked for the creation of line chart for observing the “Outcomes Based on Goals” trends. I had difficulty reading the chart and felt that a clustered column might be a better fit to analyze the data.
+
 I created a new chart and formatted the data to show green for successful campaigns and red for failed campaigns. This helped me more easily read and interpret the chart and I am including it for reference. 
 
-![image]("C:\Users\johns\OneDrive\Documents\UT - Analytics Bootcamp\Module 01\Challenge\Resources\Outcomes_vs_Goals-supplemental-chart.png")
+![image](C:\Users\johns\OneDrive\Documents\UT - Analytics Bootcamp\Module 01\Challenge\Resources\Outcomes_vs_Goals-supplemental-chart.png)
 
 ## Results
 
