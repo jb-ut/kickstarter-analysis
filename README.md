@@ -45,16 +45,16 @@ I created a new chart and formatted the data to show green for successful campai
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 Looking at the Outcomes Based on Launch date we can reach two conclusions:
-1.	Fundraisers in the theater parent category that launched in summers months (May – Aug) accounted for nearly half of all successful campaigns.
-2.	Failed campaigns were essentially flat during the entire year.
+- Fundraisers in the theater parent category that launched in summers months (May – Aug) accounted for nearly half of all successful campaigns.
+- Failed campaigns were essentially flat during the entire year.
 
 ### What can you conclude about the Outcomes based on Goals?
 
 Looking at the Outcomes Based on Goals data we can reach the following conclusions:
 
--Goals with budgets of less than 5000 have a success rate of above 70%
--Goals above 5000 and less than 25000 will have a success rate in the range 45% -55%
--Going above 25000 will have high likelihood of failure likely above 70%
+- Goals with budgets of less than 5000 have a success rate of above 70%
+- Goals above 5000 and less than 25000 will have a success rate in the range 45% -55%
+- Going above 25000 will have high likelihood of failure likely above 70%
 
 I recommend launching future campaigns in the summer months and with a goal under 25000.
 
