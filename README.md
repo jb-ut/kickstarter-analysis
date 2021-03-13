@@ -10,7 +10,7 @@ I will be looking at a Kickstarter data set that includes the results of various
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 
-Based purely on launch date and limiting the parent category to only theater there is some evidence that fundraisers that launched during the summer months (May - Aug) fared better than fundraisers other periods of the year. 
+---Based purely on launch date and limiting the parent category to only theater there is some evidence that fundraisers that launched during the summer months (May - Aug) fared better than fundraisers other periods of the year. 
     
 Looking at the chart titled “Theater Outcomes Based on Launch Date” we can see a spike in success of fundraisers beginning in May where it peaked at 111 successful fundraisers. During May – Aug the average number of success fundraisers was 72 vs. 59 for all other months. Fundraisers launched during May-June also accounted for 44% of all successful fundraisers.
 
