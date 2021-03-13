@@ -23,7 +23,8 @@ Based on launch date alone it appears that while there are a higher number of su
 ### Analysis of Outcomes Based on Goals
 Looking at the impact of goal size and the success rate of kickstarter campaigns we will turn our focus to specifically to plays.
 We observe the following:
--Fundraisers with a goal of “Less than 1000” and “1000 to 4999” both had success rates of over 70%. 
+
+- Fundraisers with a goal of “Less than 1000” and “1000 to 4999” both had success rates of over 70%. 
 -	We see the success rate drop closer to the 45% - 55% range when the goal increases. We can see a 50/50 success for goals within these tiers: “5000 to 9999”, “10000 to 14999”, 15000 to 19999”, and “20000 to 24999”.
 -	Once the goal breaks the 25000 barrier, we see the failure rate increase dramatically. While there are a few outliers, the failure rate for higher fundraisers budgeted over 25000 reaches rates as high as 100% and is consistently over 70% for four of the six tiers above 25000. 
 It is important to consider the sample size from the data. While there was some success at fundraisers with goals of over 25000, there is a much smaller pool of data to cull from. For example, when looking at the success rate for fundraisers budgeted at less than 5000 we were able to pull from a sample of 720 projects vs. just 42 total completed projects for fundraisers with a goal higher than 25000.
