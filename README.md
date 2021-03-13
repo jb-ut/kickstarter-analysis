@@ -56,7 +56,7 @@ Looking at the Outcomes Based on Goals data we can reach the following conclusio
 - Goals above 5000 and less than 25000 will have a success rate in the range 45% -55%
 - Going above 25000 will have high likelihood of failure likely above 70%
 
-I recommend launching future campaigns in the summer months and with a goal under 25000.
+***Recommendation: I recommend launching future campaigns in the summer months and with a goal under 25000.***
 
 ### What are some limitations of this dataset?
 
