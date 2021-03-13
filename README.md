@@ -42,13 +42,13 @@ I created a new chart and formatted the data to show green for successful campai
 
 ### Results
 
-##What are two conclusions you can draw about the Outcomes based on Launch Date?
+## What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 Looking at the Outcomes Based on Launch date we can reach two conclusions:
 1.	Fundraisers in the theater parent category that launched in summers months (May – Aug) accounted for nearly half of all successful campaigns.
 2.	Failed campaigns were essentially flat during the entire year.
 
-##What can you conclude about the Outcomes based on Goals?
+## What can you conclude about the Outcomes based on Goals?
 
 Looking at the Outcomes Based on Goals data we can reach the following conclusions:
 
@@ -58,13 +58,13 @@ Looking at the Outcomes Based on Goals data we can reach the following conclusio
 
 I recommend launching future campaigns in the summer months and with a goal under 25000.
 
-##What are some limitations of this dataset?
+## What are some limitations of this dataset?
 
 The data set has a few limitations. As I mentioned, there were some outliers for the success rate of campaigns with a budget greater than 25000. Two out of the three campaigns with a goal “40000 to 44999” succeeded. Because of the small sample I would caution against setting goals in this tier. 
 
 A data set that included the number of prior campaigns run by an individual would be interesting to see and it would be interesting the know the average goal of prior campaigns. My thought is those outliers could potentially be organized by individuals with prior experience of producing plays and maybe that experience factored into them reaching goals in this tier. 
 
-##What are some other possible tables and/or graphs that we could create?
+## What are some other possible tables and/or graphs that we could create?
 
 I am including another chart that helped me create this analysis in the *Challenges and Difficulties Encountered* section. Additionally, another chart that would be interesting to see would be the average donation of size of campaigns based on their goal target.
 
