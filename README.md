@@ -18,7 +18,7 @@ Interestingly, we can observe that the number of failed fundraisers was mostly f
 
 Based on launch date alone it appears that while there are a higher number of success fundraisers that launched in the summer there are like other contributing factors to launching a successful kickstarter campaign.
 
-![image]("C:\Users\johns\OneDrive\Documents\UT - Analytics Bootcamp\Module 01\Challenge\Resources\Theater_Outcomes_vs_Launch.png")
+![image](https://github.com/jb-ut/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Looking at the impact of goal size and the success rate of kickstarter campaigns we will turn our focus to specifically to plays.
