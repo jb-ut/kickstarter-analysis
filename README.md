@@ -29,7 +29,7 @@ We observe the following:
 -	Once the goal breaks the 25000 barrier, we see the failure rate increase dramatically. While there are a few outliers, the failure rate for higher fundraisers budgeted over 25000 reaches rates as high as 100% and is consistently over 70% for four of the six tiers above 25000. 
 It is important to consider the sample size from the data. While there was some success at fundraisers with goals of over 25000, there is a much smaller pool of data to cull from. For example, when looking at the success rate for fundraisers budgeted at less than 5000 we were able to pull from a sample of 720 projects vs. just 42 total completed projects for fundraisers with a goal higher than 25000.
 
-![image]("C:\Users\johns\OneDrive\Documents\UT - Analytics Bootcamp\Module 01\Challenge\Resources\Outcomes_vs_Goals.png")
+![image](https://github.com/jb-ut/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered 
 During the analysis there were some challenges encountered. 
